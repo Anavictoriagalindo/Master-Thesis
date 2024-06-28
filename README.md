@@ -19,7 +19,7 @@ This repository contains the code and data for my thesis, "Application of the Si
 
 ### Application 1: Model Classification
 
-In this application, we compare traditional Autoregressive (AR), Autoregressive Moving Average (ARMA), and Autoregressive Integrated Moving Average (ARIMA) models using signature-based features. The goal is to classify models and assess the performance improvements brought by using signature features.
+In this application, we classify traditional Autoregressive (AR), Autoregressive Moving Average (ARMA), and Autoregressive Integrated Moving Average (ARIMA) models using signature-based features. The goal is to classify models from two classes of the same model scheme and assess the performance improvements brought by using signature features.
 
 ### Application 2: Temporal Segmentation
 
