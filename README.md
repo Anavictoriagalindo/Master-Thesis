@@ -5,14 +5,14 @@ This repository contains the code and data for my thesis, "Application of the Si
 
 ## Repository Structure
 
-- `application_1/`
+- `Application_1/`
   - `TFM_application1.ipynb`: Notebook for Application 1
-- `application_2/`
+- `Application_2/`
   - `TFM_application2.ipynb`: Notebook for Application 2
   - `DAT_ASCII_WTIUSD_M1_2021.csv`: Data file for crude oil prices in 2021
   - `DAT_ASCII_WTIUSD_M1_2022.csv`: Data file for crude oil prices in 2022
   - `DAT_ASCII_WTIUSD_M1_2023.csv`: Data file for crude oil prices in 2023
-- `application_3/`
+- `Application_3/`
   - `TFM_application3.ipynb`: Notebook for Application 3
 
 ## Applications
